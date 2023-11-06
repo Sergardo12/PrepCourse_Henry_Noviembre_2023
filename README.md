@@ -1,2 +1,1 @@
-# PrepCourse_Henry_Noviembre_2023
-Este es un repositorio del m2 del curso de preparación de Henry  - Noviembre 2023.
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi computadora local.
